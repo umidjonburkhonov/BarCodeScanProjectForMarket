@@ -12,7 +12,7 @@ import {
 // Firebase config
 const firebaseConfig = {
     databaseURL:
-        "https://courseproject-87478-default-rtdb.asia-southeast1.firebasedatabase.app/",
+        
 };
 
 // Init Firebase
