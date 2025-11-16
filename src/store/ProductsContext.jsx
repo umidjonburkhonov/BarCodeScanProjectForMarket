@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useMemo, useState } from "react";
-import * as db from "../lib/productsApi"; // ✅ Firebase uchun yozilgan faylni import qilamiz
+import * as db from "../lib/productsApi"; 
 import { onValue, ref, getDatabase } from "firebase/database";
 
 const ProductsCtx = createContext();
